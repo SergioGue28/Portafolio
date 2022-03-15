@@ -1,0 +1,373 @@
+
+ body{position: absolute;
+    width: 1536px;
+    height: 1024px;
+    left: 0px;
+    top: 0px;
+    
+    background: url(img/fondo.jpg);
+    background-size: 1440*1024;
+    background-repeat: no-repeat;}
+
+header{position: absolute;
+    width: 1352px;
+    height: 300px;
+    left: 67px;
+    top: 20px;}
+
+.fondotexto1{position: absolute;
+    width: 1000px;
+    height: 200px;
+    left: 67px;
+    top: 70px;
+   
+    border-radius: 25px;}
+
+.fotografia{ position: absolute;
+    width: 300px;
+    height: 300px;
+    left: 1119px;
+    border-radius: 1000px}
+
+.Contenido{position: absolute;
+    width: 1288px;
+    height: 500px;
+    left: 67px;
+    top: 347px;}
+
+.tarjetatalleres{position: absolute;
+    width: 300px;
+    height: 00px;
+    left: 110px;
+    top: 30px;
+    font-size: 30px;
+    
+    border-radius: 2000px;}
+
+.fotoTarjetaTalleres{position: absolute;
+    width: 50px;
+    height: 50px;
+    left: -40px;
+    top: 35px;
+    border-radius: 20px;
+}
+
+.tituloTargetaTalleres{position: absolute;
+   
+   font-size: 60px;
+   font-family: Roboto;
+   left: 17px;
+   top: -30px;
+}
+.lineaTalleres
+{
+    position: absolute;
+    width: 250px;
+    top: 98px;
+    left: 25px;
+}
+
+.elipseUnoTalleres
+{
+    position: absolute;
+    top: 170px;
+    left: 50px;
+}
+
+.elipseDosTalleres
+{
+    position: absolute;
+    top: 225px;
+    left: 50px;
+}
+
+.elipseTresTalleres
+{
+    position: absolute;
+    top: 280px;
+    left: 50px;
+}
+
+.elipseCuatroTalleres
+{
+    position: absolute;
+    top: 335px;
+    left: 50px;
+}
+
+.elipseCincoTalleres
+{
+    position: absolute;
+    top: 390px;
+    left: 50px;
+}
+
+.btnCurriculumFigma
+{
+   position: absolute;
+   background: none;
+   font-size: 20px;
+   border-radius: 10px;
+   border: none;
+   font-family: Roboto;
+   left: 70px;
+   top: 158px;
+
+}
+
+.btnCurriculumHTML
+{
+   position: absolute;
+   background: none;
+   font-size: 20px;
+   border-radius: 10px;
+   border: none;
+   font-family: Roboto;
+   left: 70px;
+   top: 210px;
+}
+
+.btnGithub
+{
+   position: absolute;
+   background: none;
+   font-size: 20px;
+   border-radius: 10px;
+   border: none;
+   font-family: Roboto;
+   left: 70px;
+   top: 265px;
+}
+.btnSopaLetras
+{
+   position: absolute;
+   background: none;
+   font-size: 20px;
+   border-radius: 10px;
+   border: none;
+   font-family: Roboto;
+   left: 70px;
+   top: 322px;
+
+}
+.btnCurriculumFigma:hover
+{
+    background: aquamarine;
+}
+
+
+.btnCurriculumHTML:hover
+{
+    background: aquamarine;
+}
+
+.btnGithub:hover
+{
+    background: aquamarine;
+}
+
+.btnNeocities:hover
+{
+    background: aquamarine;
+}
+.btnSopaLetras:hover
+{
+    background: aquamarine;
+}
+
+.tarjetaconsultas{position: absolute;
+    width: 400px;
+    height: 500px;
+    left: 511px;
+    top: 30px;
+
+    border-radius: 25px;
+}
+.fotoTarjetaConsultas{position: absolute;
+    width: 50px;
+    height: 50px;
+    left: 4px;
+    top: 41px;
+    border-radius: 20px;
+}
+
+.tituloTargetaConsultas
+{
+    position: absolute;
+    background: none;
+    font-size: 60px;
+    border-radius: 10px;
+    border: none;
+    font-family: Roboto;
+    top: -30px;
+    left: 65px;
+}
+
+.lineaConsultas
+{
+    position: absolute;
+    width: 250px;
+    top: 98px;
+    left:66px;
+}
+
+.elipseUnoConsultas
+{
+    position: absolute;
+
+    top: 170px;
+    left: 96px;
+}
+.btnConsultaDOM
+{
+   position: absolute;
+   background: none;
+   font-size: 20px;
+   border-radius: 10px;
+   border: none;
+   font-family: Roboto;
+   left: 120px;
+   top: 158px;
+}
+.btnConsultaDOM:hover
+{
+    background: aquamarine;
+}
+
+.tarjetaretos{position: absolute;
+    width: 400px;
+    height: 500px;
+    left: 955px;
+    top: 30px;
+    
+    border-radius: 25px;
+}
+
+.fotoTarjetaRetos
+{position: absolute;
+      
+    width: 50px;
+    height: 50px;
+    left: 70px;
+    top: 40px;
+    border-radius: 20px;
+}
+    
+.tituloTargetaRetos
+ {
+ position: absolute;
+background: none;
+font-size: 50px;
+border-radius: 10px;
+border: none;
+font-size: 60px;
+font-family: Roboto;
+top: -30px;
+left: 145px;
+}
+
+.elipseUnoRetos
+{
+    position: absolute;
+    top: 170px;
+    left: 170px;
+}
+
+.lineaRetos
+{
+    position: absolute;
+    width: 250px;
+    top: 98px;
+    left: 146px;
+}
+    
+.piedepagina{position: absolute;
+    position: absolute;
+    width: 1288px;
+    height: 100px;
+    left: 67px;
+    top: 913px;
+    
+    
+    border-radius: 50px;}
+
+.githubImg
+{
+    position: absolute;
+    width: 64px;
+    height: 64px;
+    left: 1300px;
+    top: 10px;
+    }
+ 
+.neocitieImg
+{   
+    position: absolute;
+    width: 72px;
+    height: 72px;
+    left: 92.12%;
+    right: 8.71%;
+    top: 10%;
+    bottom: 4%;}
+
+    .curriculumImg{position: absolute;
+        width: 64px;
+        height: 64px;
+        left: 1095px;
+        top: 10px;
+    }
+    
+.nombre{
+    position: absolute;
+width: 869px;
+height: 56px;
+left: 400px;
+bottom: 100px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 30px;
+line-height: 56px;
+text-align: center;
+
+color: #000000;
+}
+
+.eslogan{
+    position: absolute;
+width: 662px;
+height: 45px;
+left: 471px;
+top: 50px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 45px;
+/* identical to box height */
+
+text-align: center;
+
+color: #000000;
+}
+
+.creditos{position: absolute;
+    width: 900px;
+    height: 61px;
+    left: 202px;
+    top: 5px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 36px;
+    line-height: 42px;
+    display: flex;
+    align-items: center;
+    
+    color: #000000;}
+
+  
+
